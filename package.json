@@ -1,6 +1,6 @@
 {
   "name": "conventional-changelog-semf-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This preset extends the angular preset",
   "main": "index.js",
   "scripts": {
